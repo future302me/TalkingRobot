@@ -4,6 +4,15 @@
     android:background="#d8e0e8"
     android:orientation="vertical"
    >
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="退出"
+        android:textColor="#ffffffff"
+        android:layout_gravity="right"
+        android:background="#ff76b4ff" />
+
     <ListView
         android:id="@+id/msg_list_view"
         android:layout_width="match_parent"
