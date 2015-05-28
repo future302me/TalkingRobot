@@ -18,6 +18,14 @@ public class Msg {
         this.type = type;
     }
 
+    public void setContent(String content) {
+        this.content = content;
+    }
+
+    public void setType(int type) {
+        this.type = type;
+    }
+
     public String getContent() {
         return content;
     }
