@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">YouTalking</string>
+    <string name="app_name">YTRobot</string>
     <string name="action_settings">Setting</string>
     <string name="login_username">用户名</string>
     <string name="login_password">密码</string>
